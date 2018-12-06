@@ -1,3 +1,6 @@
+title: Welcome to my Omitusa's homepage
+description: feel free to visit this blog often for recent updates concerning my projects
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/paul-omits/omitusaoo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
